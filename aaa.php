@@ -1,3 +1,4 @@
 <?php 
-    echo "dahdjkahdjka";
+  $a=date();
+  echo $a;
 ?>
